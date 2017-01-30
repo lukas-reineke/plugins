@@ -1,0 +1,23 @@
+{
+  "name": "lotus-notes",
+  "version": "1.0.0",
+  "description": "lotus-notes",
+  "main": "index.js",
+  "author": "Lukas Reineke <lukas.reineke@protonmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "",
+    "serviceName": "Lotus Notes",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
